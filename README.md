@@ -20,4 +20,4 @@ contribution text
 
 ### Copyright
 
-2021 GIT.Training.
+2021 GIT.training.
