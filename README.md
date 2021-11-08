@@ -16,7 +16,7 @@ Deployment text.
 
 ##How to Contribute
 
-contribution text
+contribution text - Please for this repository and than issue pull requests for review.
 
 ### Copyright
 
